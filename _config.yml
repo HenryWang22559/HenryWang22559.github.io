@@ -60,32 +60,25 @@ plugins:
 author:
   name   : "Hung-Hsun Wang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I graduated with a Master's degree in Physics, with an interest in applying numerical algorithms to solve physics problems."
+  bio    : "I graduated with a Master's degree in Physics at NTHU, with an interest in applying numerical algorithms to solve physics problems."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://henrywang22559"
-    - label: "Instagram"
+    - label: "Linkedin"
       icon: "fa-brands fa-linkedin" 
       url: "www.linkedin.com/in/hung-hsun-wang-156178238"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://henrywang22559"
+    - label: "Linkedin"
+      icon: "fa-brands fa-linkedin" 
+      url: "www.linkedin.com/in/hung-hsun-wang-156178238"
 
 defaults:
   # _posts
