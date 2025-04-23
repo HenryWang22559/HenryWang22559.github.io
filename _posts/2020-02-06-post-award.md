@@ -3,7 +3,7 @@ title: "Honorable Mentioned Award in Poster Competition at Annual Meeting of the
 date: 2020-02-06T15:34:30-04:00
 ---
 
-
+Thesis title : Momentum Occupation of a two-dimensional dipolar Bose-Einstein condensate in the presence of vortices
 
 ![Figure_vortex](../assets/images/2020_APS_poster_henry_photo.jpg "Picture in the poster session")
 
