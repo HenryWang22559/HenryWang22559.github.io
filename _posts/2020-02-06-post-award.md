@@ -7,7 +7,8 @@ date: 2020-02-06T15:34:30-04:00
 
 ![Figure_vortex](../assets/images/2020_APS_poster_henry_photo.jpg "Picture in the poster session")
 
-In this work, we numerically investigate the momentum occupation of the 2D dipolar Bose-Einstein condensate in the presence of vortices
+In this work, we numerically investigate the momentum occupation of the 2D dipolar Bose-Einstein condensate in the presence of vortices.
+Owing to the long-range and anisotropic nature of the dipolar interaction between atoms, quantum vortices in such condensates possess nontrivial structure and the interplay between them may significantly influence the hydrodynamic properties of the condensate.
 
 ![Figure_photo](../assets/images/dipolar_vortex.png "Quantum vortex in different dipolar interaction")
 
