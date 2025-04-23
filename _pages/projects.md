@@ -7,7 +7,7 @@ author_profile: true
 
 Machine Learning:
 
-- [Schrodinger Solver using Fully Connected Neural Network(FCNN)][Schrodinger-Solver-using-FCNN]
+- [Schrodinger Solver using Fully Connected Neural Network(FCNN)][Schrodinger-Solver-using-FCNN] - This project uses a Fully Connected Neural Network (FCNN) implemented in PyTorch to predict the ground state wavefunction of the 1D Schrodinger equation based on the potential.
 
 - [Lorenz System LSTM predictor][Lorenz_LSTM_prediction]
 
