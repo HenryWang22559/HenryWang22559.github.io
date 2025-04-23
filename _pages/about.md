@@ -7,4 +7,6 @@ I graduated with a Master's degree in Physics, where I developed a strong intere
 
 I’m particularly interested in how numerical simulations can be applied to understand physical phenomena. I also have growing curiosity about the intersection of physics and data science—especially how machine learning can enhance physical modeling and prediction.
 
-Background
+## Background
+- MS in Physics, National Tsing Hua University (2020-2024)
+- BS in Physics, National Changhua University of Eduction (2016-2020)
