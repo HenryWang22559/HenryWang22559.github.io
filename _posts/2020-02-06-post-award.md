@@ -3,9 +3,6 @@ title: "Honorable Mentioned Award at Poster Competition in Annual Meeting of the
 date: 2020-02-06T15:34:30-04:00
 categories:
   - blog
-tags:
-  - Jekyll
-  - update
 ---
 
 
