@@ -13,4 +13,5 @@ I’m particularly interested in how numerical simulations can be applied to und
 - BS in Physics, National Changhua University of Eduction (2016-2020)
 
 ## Experience
+- Research Assistant (part-time), National Tsing Hua University (2024)
 - Teaching Assistant of General Physics, National Tsing Hua University (2021-2022)
