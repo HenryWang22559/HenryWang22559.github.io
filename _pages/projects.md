@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+Machine Learning:
+
 [Schrodinger Solver using Fully Connected Neural Network(FCNN)][Schrodinger-Solver-using-FCNN]
 
 [Lorenz System LSTM predictor][Lorenz_LSTM_prediction]
