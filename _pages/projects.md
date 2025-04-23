@@ -7,7 +7,7 @@ author_profile: true
 
 [Schrodinger Solver using Fully Connected Neural Network(FCNN)][Schrodinger-Solver-using-FCNN]
 
-[Using LSTM to predict Lorenz System][Lorenz_LSTM_prediction]
+[Lorenz System LSTM predictor][Lorenz_LSTM_prediction]
 
 
 
