@@ -14,5 +14,5 @@ Owing to the long-range and anisotropic nature of the dipolar interaction betwee
 
 Check out the [poster award][poster-award-web] for more info.
 
-[poster-award-web]: https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=221
+[poster-award-web]: https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=221#a12
 
