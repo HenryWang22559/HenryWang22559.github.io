@@ -16,7 +16,7 @@ In this work, we numerically investigate the momentum occupation of the 2D dipol
 
 ![Figure_photo](../assets/images/dipolar_vortex.png "Quantum vortex in different dipolar interaction")
 
-Check out the [Jekyll docs][jekyll-docs] for more info.
+Check out the [poster award][poster-award-web] for more info.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[poster-award-web]: [https://jekyllrb.com/docs/home](https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=221)
 
