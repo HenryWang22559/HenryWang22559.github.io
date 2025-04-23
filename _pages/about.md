@@ -1,6 +1,7 @@
 ---
-permalink: /about/
 title: "About"
+classes: wide
+permalink: /about/
 ---
 
 I graduated with a Master's degree in Physics, where I developed a strong interest in using numerical algorithms to solve complex physical problems. My academic background provided a solid foundation in theoretical physics, while also allowing me to explore computational methods such as solving differential equations and modeling dynamical systems like quench dynamics using techniques like the Tensor Network.
