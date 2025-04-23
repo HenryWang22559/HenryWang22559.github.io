@@ -10,12 +10,11 @@ tags:
 
 
 
-![Sample Figure](assets/images/dipolar_vortex.png "Quantum vortex in different dipolar interaction")
-
+![Figure_vortex](../assets/images/2020_APS_poster_henry_photo.jpg "Picture in the poster session")
 
 In this work, we numerically investigate the momentum occupation of the 2D dipolar Bose-Einstein condensate in the presence of vortices
 
-![Sample Figure](assets/images/2020_APS_poster_henry_photo.jpg "Quantum vortex in different dipolar interaction")
+![Figure_photo](../assets/images/dipolar_vortex.png "Quantum vortex in different dipolar interaction")
 
 Check out the [Jekyll docs][jekyll-docs] for more info.
 
