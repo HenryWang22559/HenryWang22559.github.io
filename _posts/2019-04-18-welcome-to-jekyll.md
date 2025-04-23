@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Honorable Mentioned Award at Poster Competition in Annual Meeting of the Physical Society of Taiwan"
+date: 2020-02-06T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -8,19 +8,14 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+![Sample Figure](assets/images/dipolar_vortex.png "Quantum vortex in different dipolar interaction")
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+
+In this work, we numerically investigate the momentum occupation of the 2D dipolar Bose-Einstein condensate in the presence of vortices
+
+![Sample Figure](assets/images/2020_APS_poster_henry_photo.png "Quantum vortex in different dipolar interaction")
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
