@@ -1,5 +1,5 @@
 ---
-title: "Honorable Mentioned Award at Poster Competition in Annual Meeting of the Physical Society of Taiwan"
+title: "Honorable Mentioned Award in Poster Competition at Annual Meeting of the Physical Society of Taiwan"
 date: 2020-02-06T15:34:30-04:00
 ---
 
