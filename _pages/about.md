@@ -28,6 +28,6 @@ Title: Momentum Occupation of a two-dimensional dipolar Bose-Einstein condensate
 [“Momentum Occupation of a two-dimensional dipolar Bose-Einstein condensate in the presence of vortices”][dipolar-BEC-2D-vortices], P2-AM-002, H.-H. Wang, I.-K. Liu, and S.-C. Gou,  in Annual Meeting of the Physical Society of Taiwan, Pintung, Taiwan, 2020.
 
 [Honorable-Mention-Poster_TPS-2020]: https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=221#a12
-[Quantum-Dynamics-non-integrable-TN-ML]: https://tps2022.conf.tw/site/order/1396/poster.aspx?sid=1396&lang=en
+[Quantum-Dynamics-non-integrable-TN-ML]: [https://tps2022.conf.tw/site/order/1396/poster.aspx?sid=1396&lang=en](https://tps2022.conf.tw/site/order/1396/paperpreview.aspx?pid=0874)
 [dipolar-BEC-2D-vortices]: https://tps2020.conf.tw/site/order/1312/Poster.aspx?sid=1312&lang=en
 
