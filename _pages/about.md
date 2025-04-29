@@ -29,5 +29,5 @@ Title: Momentum Occupation of a two-dimensional dipolar Bose-Einstein condensate
 
 [Honorable-Mention-Poster_TPS-2020]: https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=221#a12
 [Quantum-Dynamics-non-integrable-TN-ML]: https://tps2022.conf.tw/site/order/1396/paperpreview.aspx?pid=0874
-[dipolar-BEC-2D-vortices]: https://tps2020.conf.tw/site/order/1312/Poster.aspx?sid=1312&lang=en
+[dipolar-BEC-2D-vortices]: https://tps2020.conf.tw/site/order/1312/paperpreview.aspx?pid=0997
 
