@@ -15,3 +15,8 @@ I’m particularly interested in how numerical simulations can be applied to und
 ## Experience
 - Research Assistant (part-time), National Tsing Hua University (2024)
 - Teaching Assistant of General Physics, National Tsing Hua University (2021-2022)
+
+## Awards & Achievements
+- Honorable Mention Award of the Poster Competition at the Annual Meeting of the Physical Society of Taiwan.
+Title: Momentum Occupation of a two-dimensional dipolar Bose-Einstein condensate in the presence of vortices
+- Merit Award of the project competition, Department of Physics, National Changhua University of Education.
