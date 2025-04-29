@@ -25,7 +25,7 @@ Title: Momentum Occupation of a two-dimensional dipolar Bose-Einstein condensate
 ### Poster
 [“Quantum Dynamics of a Non-Integrable Many-Body System by Tensor Networks and Machine Learning”][Quantum-Dynamics-non-integrable-TN-ML], PP-SC-007, H.-H. Wang, K.-T. Chou, P.-C. Chen, and D.-W. Wang, Annual Meeting of the Physical Society of Taiwan, Taipei, Taiwan, 2022.
 
-[“Momentum Occupation of a two-dimensional dipolar Bose-Einstein condensate in the presence of vortices”][dipolar-BEC-2D-vortices], P2-AM-002, H.-H. Wang, I.-K. Liu, and S.-C. Gou,  in Annual Meeting of the Physical Society of Taiwan, Pintung, Taiwan, 2020.
+[“Momentum Occupation of a two-dimensional dipolar Bose-Einstein condensate in the presence of vortices”][dipolar-BEC-2D-vortices], P2-AM-002, H.-H. Wang, I.-K. Liu, and S.-C. Gou, Annual Meeting of the Physical Society of Taiwan, Pintung, Taiwan, 2020.
 
 [Honorable-Mention-Poster_TPS-2020]: https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=221#a12
 [Quantum-Dynamics-non-integrable-TN-ML]: https://tps2022.conf.tw/site/order/1396/paperpreview.aspx?pid=0874
